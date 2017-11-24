@@ -1,0 +1,35 @@
+body {
+  padding-top: 55px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 55px;
+  }
+}
+
+.card {
+  height: 100%;
+}
+
+.bg-dark {
+  background-color: rebeccapurple !important;
+}
+
+.btn-ifc {
+  color: #fff;
+  background-color: #00a77e;
+  border-color: transparent;
+  border: transparent 0px;
+}
+.btn-ifc:hover {
+  color: #fff;
+  background-color: #079673;
+}
+
+.footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
